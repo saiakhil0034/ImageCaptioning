@@ -1,0 +1,7 @@
+*ipynb
+.ipynb_checkpoints/*
+data/*
+*log
+results/*
+typescript
+__pycache__
